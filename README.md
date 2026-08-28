@@ -3,7 +3,7 @@
 Website portofolio pribadi yang menampilkan kemampuan frontend development dengan fokus pada desain modern, responsif, dan pengalaman pengguna (UX) yang baik.
 
 🔗 **Live Demo**
-https://kitenih.github.io/Portofolio/
+https://kitenih.github.io/Portfolio/
 
 ---
 
